@@ -1,5 +1,0 @@
-import sys
-print('hello')
-sys.exit()
-# will not print
-print('goodbye')
